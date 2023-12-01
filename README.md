@@ -5,9 +5,14 @@ The goal of this notebook is to predict whether a novice player in the NBA would
 The notebook covers:
 
 🔍 Data exploration and cleaning
+
 📈 Visualizations for insights
+
 🤖 Model building and hyperparameter optimization
+
 🎯 Evaluations using F1-score metrics
+
 🚀 Ensemble learning attempts for improved performance
+
 📦 Preparation for API integration
 
