@@ -2,7 +2,7 @@
 
 The goal of this notebook is to predict whether a novice player in the NBA would have a career lasting more than 5 years or not, based on their statistics. This prediction will help decide if it's wise to invest in this player.
 
-The notebook covers:
+The notebook covers :
 
 🔍 Data exploration and cleaning
 
